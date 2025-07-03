@@ -265,7 +265,7 @@ Iris
 
 **Video Settings/Shader Packs (Oppe i højre hjørne)**
 
-**Anbefalede indstillinger:**
+**Anbefalede indstillinger til complementary - reimagined:**
 
 Atmosphere
 - Aurora Borealis: Set by Style
