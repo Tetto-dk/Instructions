@@ -111,7 +111,7 @@ Markeret i fed betyder at du ikke må tage den af
 15. Creeper Retextured - Beder creeper texture
 16. Eating Animation - Animationer når du spiser
 17. Recolorful Containers\* - Bedre GUI
-18. CustomConatainers\* - Fix til recolorful containers
+18. CustomConatainers\* - Fix til recolorful containers + fix til terralith - anbefalet
 19. Enchanted - Xp Bar bliver til galactic alphabet
 20. New Hearts - Hjerter i xp bar ser bedre ud
 21. ***vanilla-glowing-ores*** - Lysende ores
