@@ -10,7 +10,7 @@ Download release: _install.zip
 
 *Hvis du allerede har fabric installeret så kan du skippe det her*
 
-Brug [det her link](https://fabricmc.net/)
+Brug [det her link](https://fabricmc.net/) (https://fabricmc.net/)
 
 Tryk på `Download` knappen
 
