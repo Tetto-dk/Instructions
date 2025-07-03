@@ -2,7 +2,7 @@
 
 Det her er instruktioner til downloade de nødvendige ting til serveren
 
-Download release: _install.zip
+Download release: `_install.zip`
 
 ## Installér Fabric ##
 
