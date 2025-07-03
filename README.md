@@ -157,7 +157,7 @@ Gå ud af spillet når du har startet det
 
 ### Vælg shaders ###
 
-Du kan vælge shaders [her](https://modrinth.com/shaders?v=1.21.4&g=categories:iris) men jeg vil anbefale `Complementary Shaders - Reimagined`
+Du kan vælge shaders her: https://modrinth.com/shaders?v=1.21.4&g=categories:iris men jeg vil anbefale `Complementary Shaders - Reimagined`
 
 I `_install` mappen er der en mappe der hedder `shaders` i den mappe kan du finde `Complementary Shaders - Reimagined`, du kan også vælge at lade være med at spille med shaders.
 
@@ -283,9 +283,9 @@ Atmosphere
 
 ### Voice Chat ###
 
-[Brug den her guide](https://modrepo.de/minecraft/voicechat/wiki/client_setup)
+Brug den her guide: https://modrepo.de/minecraft/voicechat/wiki/client_setup
 
 
 ## Vigtigt ##
 
-Kig på [den her liste](https://modrinth.com/collection/MRYq9g8U) og find ud af hvilke mods der er på, det kommer til at hjælpe dig og mig for så skal jeg ikke forklare hvilke mods der er på
+Kig på den her liste: https://modrinth.com/collection/MRYq9g8U og find ud af hvilke mods der er på, det kommer til at hjælpe dig og mig for så skal jeg ikke forklare hvilke mods der er på
