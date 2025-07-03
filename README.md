@@ -118,6 +118,7 @@ Markeret i fed betyder at du ikke må tage den af
 22. ***Chests-Reimagined*** - Fix til kister
 23. Cherry Background - Bedre baggrund (jeg har selv taget billedet)
 24. Nether Wart Retexture - Bedre nether wart
+25. ***MyTexturePack*** - Nogle recipes har fået kobber, denne her fiver tingene kobber i deres textures
 
 
 \*Hvis du har `Recolorful Containers`på så skal du have `CustomConatainers` på
